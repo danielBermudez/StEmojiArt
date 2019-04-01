@@ -15,6 +15,7 @@
 		AA50E506224EA68C00D31D8B /* EmojiArtView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA50E505224EA68C00D31D8B /* EmojiArtView.swift */; };
 		AAE4DA1122524A1000DED23A /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE4DA1022524A1000DED23A /* Utilities.swift */; };
 		AAE4DA13225266A400DED23A /* EmojiArtDocumentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE4DA12225266A400DED23A /* EmojiArtDocumentTableViewController.swift */; };
+		AAEBD1E02252A162001C818C /* EmojiCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEBD1DF2252A162001C818C /* EmojiCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AA50E505224EA68C00D31D8B /* EmojiArtView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtView.swift; sourceTree = "<group>"; };
 		AAE4DA1022524A1000DED23A /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		AAE4DA12225266A400DED23A /* EmojiArtDocumentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtDocumentTableViewController.swift; sourceTree = "<group>"; };
+		AAEBD1DF2252A162001C818C /* EmojiCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				AA50E4F1224EA5EA00D31D8B /* AppDelegate.swift */,
 				AA50E4F5224EA5EA00D31D8B /* Main.storyboard */,
+				AAEBD1DF2252A162001C818C /* EmojiCollectionViewCell.swift */,
 				AAE4DA12225266A400DED23A /* EmojiArtDocumentTableViewController.swift */,
 				AAE4DA1022524A1000DED23A /* Utilities.swift */,
 				AA50E505224EA68C00D31D8B /* EmojiArtView.swift */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA50E4F2224EA5EA00D31D8B /* AppDelegate.swift in Sources */,
+				AAEBD1E02252A162001C818C /* EmojiCollectionViewCell.swift in Sources */,
 				AA50E504224EA62C00D31D8B /* EmojiArtViewController.swift in Sources */,
 				AAE4DA1122524A1000DED23A /* Utilities.swift in Sources */,
 				AAE4DA13225266A400DED23A /* EmojiArtDocumentTableViewController.swift in Sources */,
